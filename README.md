@@ -1,4 +1,4 @@
-# Introduction to the DOM c
+# Introduction to the DOM c c
 
 ## Learning Goals
 
